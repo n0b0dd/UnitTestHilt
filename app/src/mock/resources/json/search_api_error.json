@@ -1,0 +1,9 @@
+{
+  "status": false,
+  "message": "Request Fail",
+  "data": {
+    "error_code":500,
+    "error":"Server_Error",
+    "error_description":"Internal servers error"
+  }
+}
